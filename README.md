@@ -5,7 +5,7 @@
 
 ![hufs 로고](https://github.com/hufsrim/week12-HW/assets/170544640/3d5d885c-ff79-4784-b2ec-5d4ff31fb7e3)  
 
-Folder - master  
+필기를 replit에서 이미 markdown 형식으로 저장을 해놔서 로컬과 원격 저장소 연결방법 연습하며 master라는 폴더를 만들었다.폴더 master에는 아무것도 들어있지가 않다...  
 
 | 주차 | 강의범위 및 내용 | 필기 링크 |
 |:---:|:---:|:---:|
