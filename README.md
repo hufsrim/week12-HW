@@ -1,9 +1,12 @@
 # week12-HW 
-최세림, 202204555 <br/>
-레포(repo)는 프로젝트의 파일과 코드를 업로드해두고 관리할 수 있는 실질적인 프로젝트 저장소다.<br/>
-![hufs 로고](https://github.com/hufsrim/week12-HW/assets/170544640/3d5d885c-ff79-4784-b2ec-5d4ff31fb7e3) <br/>
-Folder -Data
-Folder - Notes
+최세림, 202204555  
+
+레포(repo)는 프로젝트의 파일과 코드를 업로드해두고 관리할 수 있는 실질적인 프로젝트 저장소다.  
+
+![hufs 로고](https://github.com/hufsrim/week12-HW/assets/170544640/3d5d885c-ff79-4784-b2ec-5d4ff31fb7e3)  
+
+Folder - master  
+
 | 주차 | 강의범위 및 내용 | 필기 링크 |
 |:---:|:---:|:---:|
 || ||
@@ -21,4 +24,6 @@ Folder - Notes
 | 제 12 주 | sed 사용법 - 찾은 문자열 바꾸기 | [12주차 필기](https://replit.com/@serimi1/replit#Notes/w12.md) |
 | 제 13 주 | date 사용법 - (날짜, 시간) | |
 | 제 14 주 | 프로젝트 | |
-| 제 15 주 | Final | |
+| 제 15 주 | Final | |  
+
+감사합니다.
